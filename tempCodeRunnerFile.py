@@ -1,0 +1,1 @@
+setStyleSheet("color: white; font-weight:bold; font-size: 20px")
